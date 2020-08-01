@@ -15,5 +15,8 @@
       "firstName": "Michael",
       "lastName": "Laird"
     },
-  ]
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
