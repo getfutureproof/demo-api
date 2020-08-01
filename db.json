@@ -1,0 +1,19 @@
+{
+  "instructors": [
+    {
+      "id": 1,
+      "firstName": "Oliver",
+      "lastName": "Beach"
+    },
+    {
+      "id": 2,
+      "firstName": "Beth",
+      "lastName": "Schofield"
+    },
+    {
+      "id": 2,
+      "firstName": "Michael",
+      "lastName": "Laird"
+    },
+  ]
+}
